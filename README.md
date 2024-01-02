@@ -1,15 +1,15 @@
-# DATA ANALYTICS | MODERN DATA ENGINEERING GCP PROJECT
+# GCP PROJECT - CABS' DATA ANALYTICS | MODERN DATA ENGINEERING
 ## Introduction
-The goal of this project is to perform data analytics on Uber's data.
+The goal of this project is to perform data analytics on Cabs' data.
 
 ## Technology Used: 
-Programming Language - Python
-Google Cloud Platform:
-Google Storage
-Compute Instance
-BigQuery
-Looker Studio
-Modern Data Pipeine Tool: Mage
+- Programming Language - Python
+- Google Cloud Platform:
+  - Google Storage
+  - Compute Instance
+  - BigQuery
+  - Looker Studio
+- Modern Data Pipeine Tool: [Mage](https://www.mage.ai/)
 
 ## Dataset Used
 TLC Trip Record Data
